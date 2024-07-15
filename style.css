@@ -36,6 +36,9 @@ p{
      font-size: 4rem !important;
      font-weight: 700 !important;
    }
+   .brand-image{
+    max-width:80px !important;
+  }
    
 
    /*media query*/
@@ -56,9 +59,7 @@ p{
       width: 100%;
       margin:0rem;
     }
-    .brand-image{
-      max-width:80px !important;
-    }
+   
    }
    
 
